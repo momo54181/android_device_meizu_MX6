@@ -24,6 +24,6 @@ PRODUCT_MANUFACTURER := meizu
 PRODUCT_GMS_CLIENTID_BASE := android-meizu
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="meizu_MX6-user 7.1.1 NMF26O 1594346885 release-keys"
+    PRIVATE_BUILD_DESC="meizu_MX6-user 6.0 MRA58K 1495812844 release-keys"
 
-BUILD_FINGERPRINT := Meizu/full_mz6797_6m_n/mz6797_6m_n:7.1.1/NMF26O/1594346885:user/release-keys
+BUILD_FINGERPRINT := Meizu/full_meizu6797_6c_m/meizu6797_6c_m:6.0/MRA58K/1495812844:user/release-keys
